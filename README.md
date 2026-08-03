@@ -1,5 +1,5 @@
-# Enterprise Business Intelligence Framework
-### Designing an Executive Reporting & Decision Support Framework for a Multi-secot Enterprise
+# 🏢 Enterprise Business Intelligence Framework
+**_Designing an Executive Reporting & Decision Support Framework for a Multi-sector Enterprise_**
 
 
 ## Project Overview
@@ -9,8 +9,6 @@ This repository documents a 7-phase Business Intelligence consulting project tha
 Unlike traditional dashboard projects, this project begins with the business problem, ensuring that every KPI, analysis, dashboard, and recommendation is driven by documented business requirements and supports executive decision-making.
 
 The objective is to demonstrate how a Business Intelligence Analyst approaches a real enterprise reporting initiative.
-
----
 
 ## Business Scenario
 
@@ -28,8 +26,6 @@ To support its digital transformation initiative, the organization has launched 
 
 My role is to design the first version of the organization's Enterprise Business Intelligence Framework.
 
----
-
 ## Project Objectives
 
 This project demonstrates my ability to:
@@ -43,17 +39,11 @@ This project demonstrates my ability to:
 - Produce actionable business insights and recommendations.
 - Support executive decision-making.
 
----
-
 ## Project Assumptions & Scope
-
-To keep this project focused on the responsibilities of a Business Intelligence Analyst, it assumes that foundational enterprise data management capabilities (such as data catalogs, data dictionaries, business glossaries, governance policies, and data quality standards) already exist.
-
+To keep this project focused on the responsibilities of a Business Intelligence Analyst, it assumes that foundational enterprise data management capabilities (such as data catalogs, data dictionaries, business glossaries, governance policies, and data quality standards) already exist.</br>
 Their implementation is intentionally outside the scope of this project. The focus is on the Business Intelligence lifecycle, including requirements gathering, KPI design, data preparation, business analysis, executive reporting, and decision support.
 
----
-
-## Porject Roadmap
+## Project Roadmap
 
 | Phase                                       | Primary Activities                                                                                         |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -66,26 +56,7 @@ Their implementation is intentionally outside the scope of this project. The foc
 | Final Project Delivery                      | Package and present the complete Business Intelligence framework and supporting documentation.             |
 
 
-
----
-
-# Latest Progress
-
-> This section is updated after completing each project phase.
-
-### Current Status
-
-🚀 Project Initiated
-
-### Latest Milestone
-
-Project setup completed.
-
-Next milestone: **Business Discovery & Requirements Gathering**
-
----
-
-# Project Progress
+## Project Progress
 
 - ⏳ Phase 1: Business Discovery & Requirements Gathering
 - ⏳ Phase 2: KPI Framework Design
@@ -94,8 +65,8 @@ Next milestone: **Business Discovery & Requirements Gathering**
 - ⏳ Phase 5: Dashboard Development
 - ⏳ Phase 6: Executive Decision Support
 - ⏳ Phase 7: Final Project Delivery
-
----
+### Current Status
+🚀 Project Initiated
 
 ## Repository Structure
 
