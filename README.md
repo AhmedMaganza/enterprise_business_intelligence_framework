@@ -1,7 +1,7 @@
 # 🏢 Enterprise Business Intelligence Framework
 **_Designing an Executive Reporting & Decision Support Framework for a Multi-sector Enterprise_**
 
-[!NOTE]
+> [!NOTE]
 > Portfolio Note
 > This repository simulates an Enterprise Business Intelligence consulting engagement. To keep the portfolio concise and readable, some documents contain representative samples rather than the full project content. The methodology, deliverables, and workflow reflect real-world Business Intelligence consulting practices.
 
@@ -48,37 +48,25 @@ To keep this project focused on the responsibilities of a Business Intelligence 
 Their implementation is intentionally outside the scope of this project. The focus is on the Business Intelligence lifecycle, including requirements gathering, KPI design, data preparation, business analysis, executive reporting, and decision support.
 
 ## Project Roadmap
-| Phase                                                   | Purpose                                                                                                                                                          |
-| :------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Business Discovery & Requirements Gathering**      | Understand the business, stakeholders, objectives, and reporting requirements.                                                                                   |
-| **Business Process Discovery**                       | Understand end-to-end business processes and where operational data is generated.                                                                                |
-| **KPI & Reporting Framework**                        | Translate business objectives into standardized enterprise KPIs and reporting requirements.                                                                      |
-| **Data Discovery & Source Assessment**              | Evaluate source systems, available data, data quality, and reporting readiness.                                                                                  |
-| **Data Preparation**                                 | Prepare trusted, analysis-ready datasets through validation, cleansing, and business rules.                                                                      |
-| **Business Analysis**                                | Analyze performance, identify trends, explain variances, and generate business insights.                                                                         |
-| **Business Performance Analysis & Decision Support** | Communicate business performance through dashboards, executive reporting, and actionable recommendations that support strategic and operational decision-making. |
-
-
-
-## 🚀 Project Progress
-
-| Phase | Status |
-|:------|:------:|
-| **Business Discovery & Requirements Gathering** | ✅ Completed |
-| **Business Process Discovery** | ⏳ In Progress |
-| **KPI & Reporting Framework** | ⏳ Pending |
-| **Data Discovery & Source Assessment** | ⏳ Pending |
-| **Data Preparation** | ⏳ Pending |
-| **Business Analysis** | ⏳ Pending |
-| **Business Performance Analysis & Decision Support** | ⏳ Pending |
+| Phase                                                   | Purpose                                                                     | Status |
+| :------------------------------------------------------ | --------------------------------------------------------------------------- |------- |
+| _Business Discovery & Requirements Gathering_      | _Understand the business, stakeholders, objectives, and reporting requirements._     | _✔ Completed_ |                                                                               |
+| **Business Process Discovery**                       | **Understand end-to-end business processes and where operational data is generated.**   | **⏳ In-Progress** |                                                                            |
+| KPI & Reporting Framework                        | Translate business objectives into standardized enterprise KPIs and reporting requirements.  | ⏳ Pending |                                                                    |
+| Data Discovery & Source Assessment              | Evaluate source systems, available data, data quality, and reporting readiness.               | ⏳ Pending |                                                                   |
+| Data Preparation                                 | Prepare trusted, analysis-ready datasets through validation, cleansing, and business rules.   | ⏳ Pending |                                                                   |
+| Business Analysis                                | Analyze performance, identify trends, explain variances, and generate business insights.    | ⏳ Pending |                                                                     |
+| Business Performance Analysis & Decision Support | Communicate business performance through dashboards, executive reporting, and actionable recommendations that support strategic and operational decision-making. | ⏳ Pending |
 
 > **This section is updated as the project progresses.**
-**Completed Deliverables**
-✔ Project Charter
-✔ Business Requirements Specification
 
-**Current Focus**
-Business Process Discovery
+**Completed Deliverables**  
+✔ Project Charter  
+✔ Business Requirements Specification  
+🔗 [Visit Business Discovery & Requirements Gathering](https://github.com/AhmedMaganza/enterprise_business_intelligence_framework/tree/main/01_Business_Discovery)
+
+**Current Focus**  
+Phase 2: Business Process Discovery
 
 
 ## Repository Structure
@@ -89,9 +77,6 @@ Enterprise_B_Intelligence_Framework/
 ├── 01_Business_Discovery_Requirements/
 │   ├── README.md
 │   ├── Project Charter.pdf
-│   ├── Stakeholder Identification.docx
-│   ├── Business Requirements Survey.docx
-│   ├── Stakeholder Interview Guide.docx
 │   └── Business Requirements Specification.pdf
 ├── 02_Business_Process_Discovery/
 ├── 03_KPI_Reporting_Framework/
