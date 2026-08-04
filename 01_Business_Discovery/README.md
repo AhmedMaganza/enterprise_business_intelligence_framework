@@ -1,15 +1,10 @@
-# Phase 1 – Business Discovery & Requirements Gathering
+# Phase 1 : Business Discovery & Requirements Gathering
 
 ## Overview
 
 The first phase of the Enterprise Business Intelligence Framework focuses on understanding the business before designing KPIs, data models or dashboards.
 
 The objective is to identify business goals, understand how management makes decisions, capture reporting and analytical requirements, and establish a clear foundation for the subsequent BI lifecycle.
-
-This phase follows the principle:
-
-> **Business before data.**
-
 
 ## Objectives
 
@@ -24,9 +19,9 @@ This phase follows the principle:
 The discovery process was conducted using a structured requirements elicitation approach.
 
 1. Identify key stakeholders.
-2. Distribute a Business Requirements Survey. _(Optional)_
+2. Share a business requirements survey. _(Optional)_
 3. Conduct stakeholder interviews to validate and expand survey responses.
-4. Consolidate findings into the Business Requirements Specification (BRS).
+4. Consolidate findings into the Business Requirements Specification.
 
 The interviews were conducted across three management levels:
 
@@ -39,8 +34,8 @@ The interviews were conducted across three management levels:
 | Deliverable | Purpose |
 |------------|---------|
 | Project Charter | Defines the project scope, objectives, and expected business outcomes. |
-| Stakeholder Identification | Identifies stakeholders participating in the discovery process. |
-| Business Requirements Specification (BRS) | Consolidated business, reporting, and analytical requirements. |
+| Stakeholder Identification _(working document)_ | Identifies stakeholders participating in the discovery process. |
+| Business Requirements Specification  | Consolidated business, reporting, and analytical requirements. |
 
 ## Key Findings
 
@@ -55,6 +50,6 @@ The stakeholder discovery process identified enterprise-wide requirements includ
 
 ## Transition to Phase 2
 
-The approved Business Requirements Specification serves as the primary input for **Phase 2 – Business Process Discovery**.
+The approved Business Requirements Specification serves as the primary input for **Phase 2: Business Process Discovery**.
 
 The next phase focuses on understanding how business processes operate, where business data is generated, how reports are currently produced, and identifying opportunities to improve reporting efficiency and support digital transformation.
