@@ -1,6 +1,9 @@
 # 🏢 Enterprise Business Intelligence Framework
 **_Designing an Executive Reporting & Decision Support Framework for a Multi-sector Enterprise_**
 
+[!NOTE]
+> Portfolio Note
+> This repository simulates an Enterprise Business Intelligence consulting engagement. To keep the portfolio concise and readable, some documents contain representative samples rather than the full project content. The methodology, deliverables, and workflow reflect real-world Business Intelligence consulting practices.
 
 ## Project Overview
 
@@ -30,43 +33,53 @@ My role is to design the first version of the organization's Enterprise Business
 
 This project demonstrates my ability to:
 
-- Gather business and reporting requirements from stakeholders.
-- Translate business needs into analytical questions and reporting requirements.
-- Design standardized KPI frameworks aligned with organizational and management levels.
-- Prepare, validate, and transform reporting data using SQL and Google BigQuery.
-- Analyze business performance to identify trends, variances, and opportunities.
-- Develop executive and operational dashboards using Looker.
-- Produce actionable business insights and recommendations.
-- Support executive decision-making.
+- Understanding business operations and stakeholder information needs.
+- Gathering and documenting reporting requirements.
+- Discovering and documenting business processes.
+- Designing standardized enterprise KPIs.
+- Assessing data sources and reporting readiness.
+- Preparing trusted analytical datasets.
+- Performing business performance analysis.
+- Developing executive and operational dashboards.
+- Producing actionable insights and executive recommendations.
 
 ## Project Assumptions & Scope
 To keep this project focused on the responsibilities of a Business Intelligence Analyst, it assumes that foundational enterprise data management capabilities (such as data catalogs, data dictionaries, business glossaries, governance policies, and data quality standards) already exist.</br>
 Their implementation is intentionally outside the scope of this project. The focus is on the Business Intelligence lifecycle, including requirements gathering, KPI design, data preparation, business analysis, executive reporting, and decision support.
 
 ## Project Roadmap
+| Phase                                                   | Purpose                                                                                                                                                          |
+| :------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Business Discovery & Requirements Gathering**      | Understand the business, stakeholders, objectives, and reporting requirements.                                                                                   |
+| **Business Process Discovery**                       | Understand end-to-end business processes and where operational data is generated.                                                                                |
+| **KPI & Reporting Framework**                        | Translate business objectives into standardized enterprise KPIs and reporting requirements.                                                                      |
+| **Data Discovery & Source Assessment**              | Evaluate source systems, available data, data quality, and reporting readiness.                                                                                  |
+| **Data Preparation**                                 | Prepare trusted, analysis-ready datasets through validation, cleansing, and business rules.                                                                      |
+| **Business Analysis**                                | Analyze performance, identify trends, explain variances, and generate business insights.                                                                         |
+| **Business Performance Analysis & Decision Support** | Communicate business performance through dashboards, executive reporting, and actionable recommendations that support strategic and operational decision-making. |
 
-| Phase                                       | Primary Activities                                                                                         |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Business Discovery & Requirements Gathering | Understand business needs and reporting requirements.                                                      |
-| KPI Framework Design                        | Design standardized KPI frameworks aligned with business objectives and management levels.                 |
-| Data Modeling, Generation & Preparation     | Design the reporting data model, generate realistic business data, and prepare trusted reporting datasets. |
-| Business Analysis                           | Analyze business performance, identify trends, and generate actionable insights.                           |
-| Dashboard Development                       | Develop executive and operational dashboards to support performance monitoring.                            |
-| Executive Reporting & Recommendations       | Communicate findings through executive reports, strategic insights, and business recommendations.          |
-| Final Project Delivery                      | Package and present the complete Business Intelligence framework and supporting documentation.             |
 
 
-## Project Progress
+## 🚀 Project Progress
 
-- ⏳ Phase 1: Business Discovery & Requirements Gathering
-- ⏳ Phase 2: KPI Framework Design
-- ⏳ Phase 3: Data Preparation
-- ⏳ Phase 4: Business Analysis
-- ⏳ Phase 5: Dashboard Development
-- ⏳ Phase 6: Executive Decision Support
-- ⏳ Phase 7: Final Project Delivery
-### Current Status
-🚀 Project Initiated
+| Phase | Status |
+|:------|:------:|
+| **Business Discovery & Requirements Gathering** | ✅ Completed |
+| **Business Process Discovery** | ⏳ In Progress |
+| **KPI & Reporting Framework** | ⏳ Pending |
+| **Data Discovery & Source Assessment** | ⏳ Pending |
+| **Data Preparation** | ⏳ Pending |
+| **Business Analysis** | ⏳ Pending |
+| **Business Performance Analysis & Decision Support** | ⏳ Pending |
+
+> **This section is updated as the project progresses.**
+**Completed Deliverables**
+✔ Project Charter
+✔ Business Requirements Specification
+
+**Current Focus**
+Business Process Discovery
+
 
 ## Repository Structure
 
@@ -74,12 +87,16 @@ Their implementation is intentionally outside the scope of this project. The foc
 Enterprise_B_Intelligence_Framework/
 ├── README.md
 ├── 01_Business_Discovery_Requirements/
-├── 02_KPI_Framework/
-├── 03_Data_Modeling_Generation_Preparation/
-├── 04_Business_Analysis/
-├── 05_Dashboard_Development/
-├── 06_Executive_Reporting_Recommendations/
-├── 07_Final_Project_Delivery/
-├── assets/
-└── docs/
+│   ├── README.md
+│   ├── Project Charter.pdf
+│   ├── Stakeholder Identification.docx
+│   ├── Business Requirements Survey.docx
+│   ├── Stakeholder Interview Guide.docx
+│   └── Business Requirements Specification.pdf
+├── 02_Business_Process_Discovery/
+├── 03_KPI_Reporting_Framework/
+├── 04_Data_Discovery_Source_Assessment/
+├── 05_Data_Preparation/
+├── 06_Business_Analysis/
+└── 07_Business_Performance_Analysis_Decision_Support/
 ```
